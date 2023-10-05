@@ -11,7 +11,7 @@ Note that this series view type is associated with the [XY-Diagram 3D](https://d
 
 ![3d-stacked spline area chart](3d-stacked-spline-area-chart.png)
 
-## Files to Review:
+## Files to Review
 
 [Form1.cs](./CS/3DStackedSplineAreaChart/Form1.cs) (VB: [Form1.vb](./VB/3DStackedSplineAreaChart/Form1.vb))
 
